@@ -10,7 +10,7 @@ For me, the real excitement lies in the dance of keys. ⌨️
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Android projects
-- 🌱 I’m currently learning Kotlin Multiplatform
+- 🌱 I’m currently learning Modern Android Development
 - 👯 I’m looking to collaborate on Android applications
 - 💬 Ask me about Android, Web, Books, and Technology
 - ⚡ Fun fact: <br> When fingers dance on keys, I code with all my might, <br> But when a pen is in my hand, I craft verses through the night.
@@ -18,10 +18,10 @@ For me, the real excitement lies in the dance of keys. ⌨️
 
 ## 🛠️ Skills
 
-![Languages](https://skillicons.dev/icons?i=kotlin,py,html,css,php,js,java,c,mysql)
+![Languages](https://skillicons.dev/icons?i=kotlin,py,html,css,php,js,java,mysql,bash,md)
 <img src=".github/assets/icons/jetpackCompose.svg" alt="jetpack compose" height="50">
 
-![Tools](https://skillicons.dev/icons?i=androidstudio,git,github,vscode,pycharm,figma,bash)
+![Tools](https://skillicons.dev/icons?i=androidstudio,git,github,vscode,pycharm,figma)
 
 
 ## 📫 Connect With Me
