@@ -47,7 +47,9 @@ For me, the real excitement lies in the dance of keys. ⌨️
 
 ## 🌟 Explore
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivathapaa&repo=Music-Tag-Editor-and-Music-Manager&theme=dark&hide_border=false&layout=compact" alt="Music Tag Editor and Music Manager"/>
+<a href="https://github.com/shivathapaa/Music-Tag-Editor-and-Music-Manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivathapaa&repo=Music-Tag-Editor-and-Music-Manager&theme=dark&hide_border=false&layout=compact" alt="Music Tag Editor and Music Manager"/>
+</a>
 
 
 ## 📈 GitHub Stats
@@ -69,10 +71,10 @@ For me, the real excitement lies in the dance of keys. ⌨️
 <table align="start">
   <tr>
     <td>
-    <img src="https://github-contributor-stats.vercel.app/api?username=shivathapaa&limit=3&theme=dark&combine_all_yearly_contributions=true&custom_title=My%20Contributor%20Stats" alt="Top Contributed Repo">
+    <img src="https://github-contributor-stats.vercel.app/api?username=shivathapaa&limit=3&theme=dark&hide_border=true&combine_all_yearly_contributions=true&custom_title=My%20Contributor%20Stats" alt="Top Contributed Repo">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivathapaa&theme=dark" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivathapaa&theme=dark&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
