@@ -99,7 +99,7 @@ For me, the real excitement lies in the dance of keys. ⌨️
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=boxed" alt="Dev quote"/> &emsp;&emsp;
-  <img src="https://memer-new.vercel.app/?height=300" alt="Dev meme" height="300"/>
+  <img src="https://dev-humor.vercel.app/api?theme=dark" alt="Dev meme" />
 </p>
 
 
