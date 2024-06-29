@@ -47,10 +47,20 @@ For me, the real excitement lies in the dance of keys. ⌨️
 
 ## 🌟 Explore
 
-<a href="https://github.com/shivathapaa/Music-Tag-Editor-and-Music-Manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivathapaa&repo=Music-Tag-Editor-and-Music-Manager&theme=dark&hide_border=false&layout=compact" alt="Music Tag Editor and Music Manager"/>
-</a>
-
+<table align="start">
+  <tr>
+    <td>
+        <a href="https://github.com/shivathapaa/Music-Tag-Editor-and-Music-Manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivathapaa&repo=Music-Tag-Editor-and-Music-Manager&theme=dark&hide_border=false&layout=compact" alt="Music Tag Editor and Music Manager"/>
+        </a>
+    </td>
+    <td>
+      <a href="https://github.com/shivathapaa/socialdemoprojects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivathapaa&repo=SocialDemoProjects&theme=dark&hide_border=false&layout=compact" alt="Projects linked to social connections"/>
+      </a>    
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
 
