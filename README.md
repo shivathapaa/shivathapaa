@@ -1,5 +1,4 @@
-![Profile Banner](.github/assets/images/profileBanner.png)
-
+<!-- ![Profile Banner](.github/assets/images/profileBanner.png) -->
 # Hi, I'm Shiva Thapa! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn and build amazing projects.
@@ -9,19 +8,19 @@ For me, the real excitement lies in the dance of keys. ⌨️
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on KMP library ([Nepali-Date-Picker](https://github.com/shivathapaa/Nepali-Date-Picker/)) and Android projects
-- 🌱 I’m currently learning Kotlin Multiplatform
-- 👯 I’m looking to collaborate on Android applications
-- 💬 Ask me about KMP, Android, Web, Books, and Technology
+- 🔭 I’m currently working on KMP library ([Nepali-Date-Picker](https://github.com/shivathapaa/Nepali-Date-Picker/)), [Tallyo](https://play.google.com/store/apps/details?id=com.tallyo.tallyo), and other different KMP projects
+- 🌱 I’m currently learning iOS development
+- 👯 I’m ready to collaborate on Android and KMP projects
+- 💬 Ask me about KMP, CMP, Android, Web, Books, and Technology
 - ⚡ Fun fact: <br> When fingers dance on keys, I code with all my might, <br> But when a pen is in my hand, I craft verses through the night.
 
 
 ## 🛠️ Skills
 
-![Languages](https://skillicons.dev/icons?i=kotlin,py,html,css,php,js,java,mysql,bash,md)
+![Languages](https://skillicons.dev/icons?i=kotlin,py,swift,html,css,php,js,java,mysql,bash,md)
 <img src=".github/assets/icons/jetpackCompose.svg" alt="jetpack compose" height="50">
 
-![Tools](https://skillicons.dev/icons?i=androidstudio,git,github,vscode,pycharm,figma)
+![Tools](https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,vscode,pycharm,figma,postman)
 
 
 ## 📫 Connect With Me
@@ -39,10 +38,17 @@ For me, the real excitement lies in the dance of keys. ⌨️
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<p align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivathapaa/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivathapaa/0" alt="Shiva's Recent Article 0">
+  </a>
+</p>
 
-
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivathapaa/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivathapaa/1" alt="Shiva's Recent Article 1">
+  </a>
+</p>
 
 
 ## 🌟 Explore
@@ -64,6 +70,11 @@ For me, the real excitement lies in the dance of keys. ⌨️
 
 <table align="start">
   <tr>
+    <td>
+        <a href="https://github.com/shivathapaa/nepali_calendar_utils">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivathapaa&repo=nepali_calendar_utils&theme=dark&hide_border=false&layout=compact" alt="Nepali Calendar Utils"/>
+        </a>
+    </td>
     <td>
         <a href="https://github.com/shivathapaa/Music-Tag-Editor-and-Music-Manager">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivathapaa&repo=Music-Tag-Editor-and-Music-Manager&theme=dark&hide_border=false&layout=compact" alt="Music Tag Editor and Music Manager"/>
@@ -125,5 +136,5 @@ For me, the real excitement lies in the dance of keys. ⌨️
 [![](https://visitcount.itsvg.in/api?id=shivathapaa&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you want to collaborate on any project.
+Thank you for visiting my profile! Feel free to explore my [repositories](https://github.com/shivathapaa?tab=repositories) and get in touch if you want to collaborate on any project.
 
